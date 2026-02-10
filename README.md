@@ -1,9 +1,11 @@
 ⚡ Proxy-Checker Universal Pro
+
 High-Performance Validation & Intelligent Proxy Management Engine
 Proxy-Checker Universal Pro es una herramienta de grado industrial diseñada para la validación masiva de proxies con un enfoque en la velocidad, la precisión y la automatización remota. Olvida las listas muertas; esta herramienta disecciona cada conexión para entregarte solo los activos más veloces y estables del mercado.
 
 🚀 Características Élite
 ● Motor Multi-hilo Ultra-Veloz: Ejecución en paralelo mediante ThreadPoolExecutor para procesar cientos de proxies en segundos.
+
 ● Análisis Profundo de Conexión: Detecta automáticamente el protocolo (HTTP, HTTPS, SOCKS4, SOCKS5) y calcula la latencia (Ping) exacta.
 ● Inteligencia de Red Integrada: Clasificación automática entre nodos RESIDENCIALES y DATACENTER, incluyendo extracción de ISP mediante integración con API de geolocalización.
 ● Ecosistema Telegram (Mando y Control):
